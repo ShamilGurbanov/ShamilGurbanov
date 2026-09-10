@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>IT enthusiast based in Berlin 🇩🇪 with a strong interest in programming and web development.<br><br>💻 HTML • CSS • JavaScript  <br>📚 Frontend Development  <br>🚀 Aspiring Fachinformatiker für Anwendungsentwicklung  <br>🌱 Currently learning and building personal projects<br><br>My goal is to turn my long-standing interest in technology into a career in software development.
 
 
